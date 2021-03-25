@@ -2,18 +2,4 @@ title: ebash
 description: robustness and advanced features on top of bash
 theme: jekyll-theme-hacker
 show_downloads: true
-
-# Display breadcrumbs at all?
-breadcrumb_display: true
-
-# Display Home path in breadcrumb?
-breadcrumb_home_display: true
-
-# Url for Home path to point to
-breadcrumb_home_url: http://yourcompanysite.com
-
-# Display name for "Home" path
-breadcrumb_home_name: Home
-
-sidebars:
-  - generic
+sidebar: generic

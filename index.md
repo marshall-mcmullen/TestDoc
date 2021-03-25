@@ -7,7 +7,7 @@ content:
     - customize
     - deploy
     - more 
-sidebar: somelinks
+sidebar: generic
 tagline:
     Set up your new Urubu project quickly
 ---

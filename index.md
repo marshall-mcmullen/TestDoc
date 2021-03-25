@@ -1,20 +1,3 @@
----
-title: Urubu Quickstart
-content:
-    - start
-    - content
-    - customize
-    - deploy
-    - more 
-sidebar: generic
-tagline:
-    Set up your new Urubu project quickly
----
-Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
-{.lead}
-
-Lorem ipsum dolor sit amet. 
-
 # Modules
 [archive](archive.md)<br>
 [array](array.md)<br>

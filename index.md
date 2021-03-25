@@ -1,3 +1,10 @@
+---
+title: "Sample 1: The Beginning"
+permalink: sample.html
+sidebar: generic
+product: Generic Product
+---
+
 # Modules
 [archive](archive.md)<br>
 [array](array.md)<br>

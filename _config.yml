@@ -2,13 +2,6 @@ title: ebash
 description: robustness and advanced features on top of bash
 theme: jekyll-theme-hacker
 show_downloads: true
-topnav: topnav
 
-defaults:
-  -
-    scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      topnav: topnav
+sidebars:
+  - generic

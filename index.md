@@ -1,26 +1,25 @@
-# Modules
-[archive](archive.md)<br>	[fd](fd.md)<br>
-[array](array.md)<br>		[filesystem](filesystem.md)<br>
-[assert](assert.md)<br>		[funcutil](funcutil.md)<br>
-[cgroup](cgroup.md)<br>		[hardware](hardware.md)<br>
-[checkbox](checkbox.md)<br>	[integer](integer.md)<br>
-[chroot](chroot.md)<br>		[json](json.md)<br>
-[compare](compare.md)<br>	[mount](mount.md)<br>
-[conf](conf.md)<br>		[netns](netns.md)<br>
-[daemon](daemon.md)<br>		[network](network.md)<br>
-[dialog](dialog.md)<br>		[opt](opt.md)<br>
-[die](die.md)<br>		[os](os.md)<br>
-[docker](docker.md)<br>		[overlayfs](overlayfs.md)<br>
-[dpkg](dpkg.md)<br>		[pack](pack.md)<br>
-[efetch](efetch.md)<br>		[pipe](pipe.md)<br>
-[elock](elock.md)<br>		[pkg](pkg.md)<br>
-[elogfile](elogfile.md)<br>	[platform](platform.md)<br>
-[elogrotate](elogrotate.md)<br>	[process](process.md)<br>
-[emetadata](emetadata.md)<br>	[setvars](setvars.md)<br>
-[emock](emock.md)<br>		[signal](signal.md)<br>
-[emsg](emsg.md)<br>		[stacktrace](stacktrace.md)<br>
-[eprompt](eprompt.md)<br>	[string](string.md)<br>
-[eretry](eretry.md)<br>		[testutil](testutil.md)<br>
-[etable](etable.md)<br>		[trap](trap.md)<br>
-[etimeout](etimeout.md)<br>	[try_catch](try_catch.md)<br>
-[exec](exec.md)<br>		[type](type.md)<br>
+[archive](archive.md)<br>        |  [fd](fd.md)<br>
+[array](array.md)<br>            |  [filesystem](filesystem.md)<br>
+[assert](assert.md)<br>          |  [funcutil](funcutil.md)<br>
+[cgroup](cgroup.md)<br>          |  [hardware](hardware.md)<br>
+[checkbox](checkbox.md)<br>      |  [integer](integer.md)<br>
+[chroot](chroot.md)<br>          |  [json](json.md)<br>
+[compare](compare.md)<br>        |  [mount](mount.md)<br>
+[conf](conf.md)<br>              |  [netns](netns.md)<br>
+[daemon](daemon.md)<br>          |  [network](network.md)<br>
+[dialog](dialog.md)<br>          |  [opt](opt.md)<br>
+[die](die.md)<br>                |  [os](os.md)<br>
+[docker](docker.md)<br>          |  [overlayfs](overlayfs.md)<br>
+[dpkg](dpkg.md)<br>              |  [pack](pack.md)<br>
+[efetch](efetch.md)<br>          |  [pipe](pipe.md)<br>
+[elock](elock.md)<br>            |  [pkg](pkg.md)<br>
+[elogfile](elogfile.md)<br>      |  [platform](platform.md)<br>
+[elogrotate](elogrotate.md)<br>  |  [process](process.md)<br>
+[emetadata](emetadata.md)<br>    |  [setvars](setvars.md)<br>
+[emock](emock.md)<br>            |  [signal](signal.md)<br>
+[emsg](emsg.md)<br>              |  [stacktrace](stacktrace.md)<br>
+[eprompt](eprompt.md)<br>        |  [string](string.md)<br>
+[eretry](eretry.md)<br>          |  [testutil](testutil.md)<br>
+[etable](etable.md)<br>          |  [trap](trap.md)<br>
+[etimeout](etimeout.md)<br>      |  [try_catch](try_catch.md)<br>
+[exec](exec.md)<br>              |  [type](type.md)<br>

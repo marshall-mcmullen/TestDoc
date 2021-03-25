@@ -1,9 +1,20 @@
 ---
-title: "Sample 1: The Beginning"
-permalink: sample.html
-sidebar: generic
-product: Generic Product
+title: Urubu Quickstart
+layout: home 
+content:
+    - start
+    - content
+    - customize
+    - deploy
+    - more 
+sidebar: somelinks
+tagline:
+    Set up your new Urubu project quickly
 ---
+Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit.
+{.lead}
+
+Lorem ipsum dolor sit amet. 
 
 # Modules
 [archive](archive.md)<br>

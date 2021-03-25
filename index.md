@@ -1,6 +1,5 @@
 ---
 title: Urubu Quickstart
-layout: home 
 content:
     - start
     - content

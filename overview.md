@@ -1,9 +1,3 @@
-[![CI/CD](https://github.com/elibs/ebash/workflows/CI/CD/badge.svg?branch=master)](https://github.com/elibs/ebash/actions?query=workflow%3ACI%2FCD+branch%3Amaster)
-
-<p align="center">
-    <img alt="Bash" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
-</p>
-
 # ebash Guide
 
 ## Overview
